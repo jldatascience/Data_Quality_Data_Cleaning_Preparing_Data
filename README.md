@@ -20,9 +20,9 @@ Les différents datasets utilisés, ont été collectés sur Kaggle.
 J’aborde l’ensemble de ces notions sur ces 6 notebooks ci-joints :
 
 - Pandas profiling :
-Rapport de profiling généré automatiquement
-, Description des éléments analysés
-, Afficher directement le rapport dans le notebook, au lieu de générer un fichier html séparé comme précédemment
+  Rapport de profiling généré automatiquement,
+  Description des éléments analysés,
+  Afficher directement le rapport dans le notebook, au lieu de générer un fichier html séparé comme précédemment
 
 - Traitement des valeurs manquantes :
 une 1ère aperçue des données
