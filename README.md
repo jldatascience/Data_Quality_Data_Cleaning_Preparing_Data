@@ -15,7 +15,7 @@ Les différents datasets utilisés, ont été collectés sur Kaggle.
 
 
 
-## Démarche
+## Démarche & notions techniques abordées
 
 J’aborde l’ensemble de ces notions sur ces 6 notebooks ci-joints :
 
