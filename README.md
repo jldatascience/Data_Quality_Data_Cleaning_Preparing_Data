@@ -25,36 +25,36 @@ J’aborde l’ensemble de ces notions sur ces 6 notebooks ci-joints :
   Afficher directement le rapport dans le notebook, au lieu de générer un fichier html séparé comme précédemment
 
 - Traitement des valeurs manquantes :
-une 1ère aperçue des données
-, Voir combien de points de données manquants nous avons
-, Déterminer la raison pour laquelle les données sont manquantes
-, Supprimer les valeurs manquantes
-, Compléter les valeurs manquantes
+  une 1ère aperçue des données,
+  Voir combien de points de données manquants nous avons,
+  Déterminer la raison pour laquelle les données sont manquantes,
+  Supprimer les valeurs manquantes,
+  Compléter les valeurs manquantes
 
 - Scaling et normalisation :
-.Mise en place de notre environnement
-.Mise à l'échelle ou normalisation : Quelle est la différence ?
-.Pratiquer la mise à l'échelle
-.Pratiquer la normalisation
+  Mise en place de notre environnement,
+  Mise à l'échelle ou normalisation : Quelle est la différence ?,
+  Pratiquer la mise à l'échelle,
+  Pratiquer la normalisation
 
 - Parsing dates :
-.Configurer notre environnement
-.Vérifier le type de données de notre colonne date
-.Convertir nos colonnes de date en datetime
-.Sélectionner uniquement le jour du mois dans notre colonne
-.Tracer le jour du mois pour vérifier l'analyse de la date
+  Configurer notre environnement,
+  Vérifier le type de données de notre colonne date,
+  Convertir nos colonnes de date en datetime,
+  Sélectionner uniquement le jour du mois dans notre colonne,
+  Tracer le jour du mois pour vérifier l'analyse de la date
 
 - Codage des caractères :
-.Mettre en place notre environnement
-.Que sont les encodages ?
-.Lire des fichiers avec des problèmes d'encodage
-.Sauvegarder les fichiers avec l'encodage UTF-8
+  Mettre en place notre environnement,
+  Que sont les encodages ?,
+  Lire des fichiers avec des problèmes d'encodage,
+  Sauvegarder les fichiers avec l'encodage UTF-8
 
 
 - Saisie de données incohérentes :
-.Mise en place de notre environnement
-.Effectuer un prétraitement préliminaire du texte
-.Utiliser l'appariement flou pour corriger les données incohérentes.
+  Mise en place de notre environnement,
+  Effectuer un prétraitement préliminaire du texte,
+  Utiliser l'appariement flou pour corriger les données incohérentes
 
 
 
