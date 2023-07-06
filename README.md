@@ -5,7 +5,7 @@ Data Quality (Data Cleaning &amp; Preparing Data) : Pandas profiling - Traitemen
 
 ## Contexte
 
-Cet ensemble de données est intéressant pour se faire la main sur la Data Quality
+Ce use case est vraiment intéressant pour se faire la main sur la Data Quality
 
 
 
